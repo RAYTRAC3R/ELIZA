@@ -1,4 +1,4 @@
-import { ElizaData } from './elizadata.mjs'
+import { ElizaData } from './creativedata.mjs'
 
 /**
  * ElizaBot class - Simulates a Rogerian psychotherapist.
