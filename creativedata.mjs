@@ -1721,6 +1721,23 @@ export const ElizaData = {
 					]
 				}
 			]
+		},
+		{
+			key: 'story',
+			priority: 12,
+			rules: [
+				{
+					pattern: /.*/,
+					responses: [
+						'That sounds interesting!',
+						'That could work as a story.',
+						'Tell me about the main character.',
+						'I want to hear more about the story.',
+						'Tell me about the main conflict.',
+						'Are there any other side characters?'
+					]
+				}
+			]
 		}
 	]
 }
