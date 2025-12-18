@@ -573,25 +573,6 @@ export const ElizaData = {
 			]
 		},
 		{
-			key: 'ai',
-			priority: 10,
-			rules: [
-				{
-					pattern: /.*/i,
-					responses: [
-						'Are you thinking about artificial intelligence in general?',
-						'What are your thoughts on AI as a technology? Promising, concerning?',
-						'Do you believe AI will fundamentally change society? In what ways?',
-						'How do you see the future unfolding with increasing AI capabilities?',
-						'Are you curious about the potential capabilities and limitations of AI?',
-						'What are the ethical considerations of AI that concern you most?',
-						'Do you think AI can truly understand or replicate human emotions, or is it just simulation?',
-						'How do you feel about AI assistants like myself? Do you see a value in them?'
-					]
-				}
-			]
-		},
-		{
 			key: 'social media',
 			priority: 10,
 			rules: [
